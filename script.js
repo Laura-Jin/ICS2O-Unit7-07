@@ -15,4 +15,5 @@ function calculateButton () {
     result = result + secondNum
   }
   document.getElementById('answer').innerHTML = result
+  result = 0
 }
